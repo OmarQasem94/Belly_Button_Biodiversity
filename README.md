@@ -14,5 +14,5 @@ The dashboard consists of the following:
 ## **Dashboard**
 
 
-![Dashboard](https://github.com/OmarQasem94/UFOs/blob/main/static/images/Welcome.PNG)
+![Dashboard](https://github.com/OmarQasem94/Belly_Button_Biodiversity/blob/main/static/images/Dashboard.PNG)
  
