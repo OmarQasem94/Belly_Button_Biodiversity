@@ -1,0 +1,10 @@
+
+.jumbotron {
+	background-image: url("../images/header.jpg");
+	background-size: 100%;
+    text-align: center;   
+}
+
+body {
+    background-color: rgb(84, 187, 228);
+}
